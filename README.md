@@ -18,7 +18,7 @@ npm install -g net-bible
 In the command line:
 
 ```shell
-net-bible &lt;book&gt; &lt;chapter&gt; &lt;verse&gt;
+net-bible <book> <chapter> <verse>
 ```
 
 ### Examples
