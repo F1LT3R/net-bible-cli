@@ -1,0 +1,15 @@
+{
+  "name": "net-bible-cli",
+  "version": "1.0.0",
+  "description": "Display bible verses in the command line using the NET® Bible API.",
+  "bin": {
+    "net-bible": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^1.1.0",
+    "commander": "^2.9.0",
+    "requestify": "^0.1.17"
+  }
+}
